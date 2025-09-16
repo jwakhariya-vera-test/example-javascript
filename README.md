@@ -1,7 +1,7 @@
 1# Example Node Project
 An example node project to demonstrate the [srcclr](https://www.srcclr.com) scan.
 
-## Try this once!
+## Try this!
 
 ```
 brew tap srcclr/srcclr
