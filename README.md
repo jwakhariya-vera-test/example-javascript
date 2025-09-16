@@ -1,5 +1,5 @@
 1# [:] Example Node Project
-An example node project to demonstrate the [srcclr](https://www.srcclr.com) scans.
+An example node project to demonstrate the [srcclr](https://www.srcclr.com) scan.
 
 ## Try me!
 
